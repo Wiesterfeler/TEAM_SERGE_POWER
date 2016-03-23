@@ -1,2 +1,1 @@
-# TEAM_SERGE_POWER
-Official web-site of TEAM SERGE POWER
+Official website of TEAM SERGE POWER
